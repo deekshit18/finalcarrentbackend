@@ -5,7 +5,7 @@
       "image": "https://imagetolink.com/ib/x50IgfMljp.png",
       "carname": "Honda Civic",
       "category": "Compact",
-      "price": "₹3000",
+      "price": "3000",
       "seat": "4"
     },
     {
@@ -13,7 +13,7 @@
       "image": "https://imagetolink.com/ib/YGdarHzEif.png",
       "carname": "Toyota Corolla",
       "category": "Compact",
-      "price": "₹2700",
+      "price": "2700",
       "seat": "4"
     },
     {
@@ -21,7 +21,7 @@
       "image": "https://imagetolink.com/ib/Qr8ZiwqsFS.png",
       "carname": "Ford Focus",
       "category": "Compact",
-      "price": "₹2900",
+      "price": "2900",
       "seat": "4"
     },
     {
@@ -29,7 +29,7 @@
       "image": "https://imagetolink.com/ib/d3dRL5KZnw.png",
       "carname": "Volkswagen Golf",
       "category": "Compact",
-      "price": "₹3200",
+      "price": "3200",
       "seat": "4"
     },
     {
@@ -37,7 +37,7 @@
       "image": "https://imagetolink.com/ib/UlKoVixcsd.png",
       "carname": "Mazda 3",
       "category": "Compact",
-      "price": "₹2900",
+      "price": "2900",
       "seat": "4"
     },
     {
@@ -45,7 +45,7 @@
       "image": "https://imagetolink.com/ib/RHmv7IOfsL.png",
       "carname": "BMW X3",
       "category": "SUV",
-      "price": "₹8000",
+      "price": "8000",
       "seat": "5"
     },
     {
@@ -53,7 +53,7 @@
       "image": "https://imagetolink.com/ib/h9qT61PubS.png",
       "carname": "Ford Escape",
       "category": "SUV",
-      "price": "₹6500",
+      "price": "6500",
       "seat": "5"
     },
     {
@@ -61,7 +61,7 @@
       "image": "https://imagetolink.com/ib/XDrowQdq6N.png",
       "carname": "Toyota RAV4",
       "category": "SUV",
-      "price": "₹6800",
+      "price": "6800",
       "seat": "5"
     },
     {
@@ -69,7 +69,7 @@
       "image": "https://imagetolink.com/ib/Qs66voP37q.png",
       "carname": "Honda CR-V",
       "category": "SUV",
-      "price": "₹6400",
+      "price": "6400",
       "seat": "5"
     },
     {
@@ -77,7 +77,7 @@
       "image": "https://imagetolink.com/ib/lA8E84ovkF.png",
       "carname": "Mercedes-Benz GLC-Class",
       "category": "SUV",
-      "price": "₹8000",
+      "price": "8000",
       "seat": "5"
     },
     {
@@ -85,7 +85,7 @@
       "image": "https://imagetolink.com/ib/K0LUkJNHOo.png",
       "carname": "Mercedes-Benz C-Class",
       "category": "Luxury",
-      "price": "₹15000",
+      "price": "15000",
       "seat": "5"
     },
     {
@@ -93,7 +93,7 @@
       "image": "https://imagetolink.com/ib/P5znEODDr4.png",
       "carname": "Audi A4",
       "category": "Luxury",
-      "price": "₹16000",
+      "price": "16000",
       "seat": "5"
     },
     {
@@ -101,7 +101,7 @@
       "image": "https://imagetolink.com/ib/sjZZPwwW79.png",
       "carname": "Lexus IS",
       "category": "Luxury",
-      "price": "₹14000",
+      "price": "14000",
       "seat": "5"
     },
     {
@@ -109,7 +109,7 @@
       "image": "https://imagetolink.com/ib/wCpSSCTSaR.png",
       "carname": "Cadillac CT5",
       "category": "Luxury",
-      "price": "₹15000",
+      "price": "15000",
       "seat": "5"
     },
     {
@@ -117,114 +117,160 @@
       "image": "https://imagetolink.com/ib/JBKnl37Rwr.png",
       "carname": "BMW 3 Series",
       "category": "Luxury",
-      "price": "₹17000",
+      "price": "17000",
       "seat": "5"
     }
   ],
   "bookingdetails": [
     {
-      "id": 1,
-      "carname": "",
-      "username": "okjokjo",
-      "email": "kjkkjkjkj",
-      "time": "10:34",
-      "date": "2023-11-02",
-      "days": "",
-      "rate": ""
-    },
-    {
-      "username": "bgbv",
-      "email": "jghgh",
-      "time": "10:45",
-      "date": "2023-11-22",
-      "days": "2",
-      "id": 2
-    },
-    {
-      "username": "hjhhjj",
-      "email": "jjjhj",
-      "time": "10:48",
+      "id": 14,
+      "carname": "Honda Civic",
+      "username": "Randy55",
+      "email": "randy@gmail.com",
+      "time": "21:59",
       "date": "2023-11-15",
-      "days": "2",
-      "id": 3
+      "days": "11",
+      "rate": "3000"
     },
     {
-      "username": "jbgh",
-      "email": "kjkjj",
-      "time": "10:54",
-      "date": "2023-11-09",
-      "days": "2",
-      "id": 4
+      "id": 15,
+      "carname": "BMW X3",
+      "username": "John88",
+      "email": "John@gmail.com",
+      "time": "21:51",
+      "date": "2023-11-03",
+      "days": "5",
+      "rate": "8000"
     },
     {
-      "username": "jbgh",
-      "email": "kjkjj",
-      "time": "10:54",
-      "date": "2023-11-09",
-      "days": "2",
-      "id": 5
-    },
-    {
-      "username": "jbgh",
-      "email": "kjkjj",
-      "time": "10:54",
-      "date": "2023-11-09",
-      "days": "2",
-      "id": 6
-    },
-    {
-      "username": "kjkhkhh",
-      "email": "iiui",
-      "time": "00:58",
-      "date": "2023-11-16",
-      "days": "24",
-      "id": 7
-    },
-    {
-      "username": "hfdg",
-      "email": "dgdg",
-      "time": "11:09",
-      "date": "2023-11-09",
-      "days": "2",
-      "id": 8
-    },
-    {
-      "username": "gfdg",
-      "email": "dfdsg",
-      "time": "11:09",
-      "date": "2023-11-09",
-      "days": "23",
-      "id": 9
-    },
-    {
-      "id": 10,
-      "carname": "",
-      "username": "gfg",
-      "email": "gfrhgrh",
-      "time": "11:12",
-      "date": "2023-11-09",
-      "days": "3",
-      "rate": ""
-    },
-    {
-      "id": 11,
-      "carname": "",
-      "username": "rggfgf",
-      "email": "ghh",
-      "time": "11:18",
-      "date": "2023-11-09",
-      "days": "2",
-      "rate": ""
-    },
-    {
-      "id": 12,
-      "carname": "",
-      "username": "gireesh",
-      "email": "g@gmsail.com",
-      "time": "11:39",
+      "id": 16,
+      "carname": "Honda Civic",
+      "username": "gireesh55",
+      "email": "gireesh55@gmail.com",
+      "time": "22:22",
       "date": "2023-11-10",
       "days": "2",
-      "rate": ""
+      "rate": "3000"
+    },
+    {
+      "id": 17,
+      "carname": "Honda Civic",
+      "username": "tiger",
+      "email": "tiger@gmail.com",
+      "time": "22:34",
+      "date": "2023-11-09",
+      "days": "5",
+      "rate": "3000"
+    },
+    {
+      "id": 18,
+      "carname": "BMW X3",
+      "username": "gireesh66",
+      "email": "gireesh@gmail.com",
+      "time": "22:45",
+      "date": "2023-11-02",
+      "days": "9",
+      "rate": "8000"
+    },
+    {
+      "id": 19,
+      "carname": "Honda Civic",
+      "username": "gireesh77",
+      "email": "gireesh66@gmail.com",
+      "time": "00:44",
+      "date": "2023-11-03",
+      "days": "9",
+      "rate": "3000"
+    },
+    {
+      "id": 20,
+      "carname": "Honda Civic",
+      "username": "gireesh",
+      "email": "gireesh@gmail.com",
+      "time": "22:47",
+      "date": "2023-11-09",
+      "days": "5",
+      "rate": "3000"
+    },
+    {
+      "id": 21,
+      "carname": "Honda Civic",
+      "username": "gireesh",
+      "email": "gireesh@gmail.com",
+      "time": "22:49",
+      "date": "2023-11-03",
+      "days": "5",
+      "rate": "3000"
+    },
+    {
+      "id": 22,
+      "carname": "Honda Civic",
+      "username": "gireesh",
+      "email": "gireesh@gmail.com",
+      "time": "22:50",
+      "date": "2023-11-02",
+      "days": "5",
+      "rate": "3000"
+    },
+    {
+      "id": 23,
+      "carname": "Honda Civic",
+      "username": "gireesh",
+      "email": "gireesh@gmail.com",
+      "time": "22:53",
+      "date": "2023-11-02",
+      "days": "5",
+      "rate": "3000"
+    },
+    {
+      "id": 24,
+      "carname": "Honda Civic",
+      "username": "gireesh",
+      "email": "gireesh@gmail.com",
+      "time": "22:58",
+      "date": "2023-11-03",
+      "days": "5",
+      "rate": "3000"
+    },
+    {
+      "id": 25,
+      "carname": "Honda Civic",
+      "username": "gireesh",
+      "email": "gireesh@gmail.com",
+      "time": "22:58",
+      "date": "2023-11-10",
+      "days": "5",
+      "rate": "3000"
+    },
+    {
+      "id": 26,
+      "carname": "Honda Civic",
+      "username": "gireesh",
+      "email": "gireesh@gmail.com",
+      "time": "22:00",
+      "date": "2023-11-02",
+      "days": "5",
+      "rate": "3000"
+    },
+    {
+      "id": 27,
+      "carname": "Honda Civic",
+      "username": "gireesh5",
+      "email": "gireesh77@gmail.com",
+      "time": "23:02",
+      "date": "2023-11-02",
+      "days": "5",
+      "rate": "3000"
+    },
+    {
+      "id": 28,
+      "carname": "Mercedes-Benz C-Class",
+      "username": "gireesh6",
+      "email": "gireesh6@gmail.com",
+      "time": "23:06",
+      "date": "2023-11-03",
+      "days": "5",
+      "rate": "15000"
     }
   ]
 }
