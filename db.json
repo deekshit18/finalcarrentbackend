@@ -111,14 +111,6 @@
       "category": "Luxury",
       "price": "15000",
       "seat": "5"
-    },
-    {
-      "id": "15",
-      "image": "https://imagetolink.com/ib/JBKnl37Rwr.png",
-      "carname": "BMW 3 Series",
-      "category": "Luxury",
-      "price": "17000",
-      "seat": "5"
     }
   ],
   "bookingdetails": [
